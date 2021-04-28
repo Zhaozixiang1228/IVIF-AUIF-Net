@@ -36,9 +36,9 @@ The test images used in the paper have been stored in ```'./Test_result/TNO_TCSV
 
 For other test images, run ```'test.py'``` and find the results in ```'./Test_result/'```.
 
-## DIDFuse
+## AUIF-Net
 
-### Illustration of our DIDFuse model.
+### Illustration of our AUIF-Net model.
 
 <img src="image//Framework.png" width="100%" align=center />
 
@@ -46,9 +46,9 @@ For other test images, run ```'test.py'``` and find the results in ```'./Test_re
 
 <img src="image//Qualitative.png" width="90%" align=center />
 
-### Quantitative  fusion results.
+### Quantitative fusion results.
 
-<img src="image//Quantitative.png" width="90%" align=center />
+<img src="image//Quantitative.png" width="60%" align=center />
 
 ## Related Work
 
